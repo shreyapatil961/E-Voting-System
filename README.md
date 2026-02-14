@@ -78,5 +78,6 @@ Experience a new standard in digital democracy. This **E-Voting System** is a ro
 ---
 
 ## 👨‍💻 Author
-**Harshad Teli**  
+**Shreya Patil**  
 *Enabling Digital Democracy through Modern Technology.*
+
