@@ -22,6 +22,9 @@ Experience a new standard in digital democracy. This **E-Voting System** is a ro
 - **Glassmorphic Voting Interface**: A beautiful, intuitive way to select candidates and cast votes.
 - **Real-time Results**: Live vote tallying with visual progress bars.
 
+  ---
+  <center><img src="user.png"/></center>
+
 ### 🛡️ Admin Power Panel
 - **Real-time Analytics**: Monitor voter turnout and election statuses.
 - **Election Management**: Full control to Create, Update, and Delete election cycles.
@@ -80,4 +83,5 @@ Experience a new standard in digital democracy. This **E-Voting System** is a ro
 ## 👨‍💻 Author
 **Shreya Patil**  
 *Enabling Digital Democracy through Modern Technology.*
+
 
