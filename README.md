@@ -33,6 +33,7 @@ Experience a new standard in digital democracy. This **E-Voting System** is a ro
 - **Detailed Reporting**: Comprehensive results tracking with distinct winner identification.
 
 ---
+  <center><img src="admin.png"/></center>
 
 ## 🎨 Design Aesthetics
 - **Unique Glassmorphic Theme**: Sophisticated use of background blurs and transparency.
@@ -83,5 +84,6 @@ Experience a new standard in digital democracy. This **E-Voting System** is a ro
 ## 👨‍💻 Author
 **Shreya Patil**  
 *Enabling Digital Democracy through Modern Technology.*
+
 
 
